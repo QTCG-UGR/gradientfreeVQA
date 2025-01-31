@@ -1,0 +1,525 @@
+Experiment 1 of 10
+Generations:   0%|          | 0/10 [00:00<?, ?gen/s]Generations:  10%|█         | 1/10 [00:56<08:25, 56.18s/gen]Generations:  20%|██        | 2/10 [01:50<07:20, 55.02s/gen]Generations:  30%|███       | 3/10 [02:42<06:16, 53.75s/gen]Generations:  40%|████      | 4/10 [03:30<05:09, 51.51s/gen]Generations:  50%|█████     | 5/10 [04:15<04:06, 49.26s/gen]Generations:  60%|██████    | 6/10 [05:06<03:18, 49.65s/gen]Generations:  70%|███████   | 7/10 [05:58<02:31, 50.42s/gen]Generations:  80%|████████  | 8/10 [06:48<01:40, 50.36s/gen]Generations:  90%|█████████ | 9/10 [07:32<00:48, 48.43s/gen]Generations: 100%|██████████| 10/10 [08:18<00:00, 47.70s/gen]Generations: 100%|██████████| 10/10 [08:18<00:00, 49.89s/gen]
+********** Execution #1 **********
+gen    nfev    min       max      mean      std
+-----  ------  --------  -------  --------  ---------
+0      10      0.685628  0.75702  0.711084  0.0175088
+
+1      19      0.669446  0.759282  0.705965  0.0308617
+
+2      19      0.650967  0.734672  0.683033  0.0229984
+
+3      18      0.650967  0.70346  0.675459  0.0147765
+
+4      17      0.650967  0.73214  0.679811  0.0246414
+
+5      16      0.650967  0.664699  0.657261  0.00496899
+
+6      18      0.650967  0.658096  0.654733  0.00228416
+
+7      19      0.648233  0.655045  0.652567  0.00196612
+
+8      18      0.648233  0.655907  0.652514  0.00235366
+
+9      16      0.648233  0.655343  0.65033  0.00195594
+
+10     17      0.648233  0.654597  0.651094  0.00223627
+Evolutionary Time: 532.8353698253632s. Optimal angles: [ 4.12163943 -1.92235253  3.96187922 -3.97845626]
+{'Accuracy': 0.62,
+ 'F1': 0.5128205128205129,
+ 'FN': 15,
+ 'FP': 4,
+ 'Precision': 0.7142857142857143,
+ 'Recall': 0.4,
+ 'TN': 21,
+ 'TP': 10,
+ 'Training iterations': 0,
+ 'Training time': 532.8353698253632}
+🏃 View run 2025-01-30 08:15:36 at: http://127.0.0.1:5000/#/experiments/622990938901228224/runs/26c354e2fdcd4baabbd823169bd462f3
+🧪 View experiment at: http://127.0.0.1:5000/#/experiments/622990938901228224
+VQA Adiabatic. Time: 1013.0572700500488s. Optimal angles: {'a': 7*pi/4, 'b': 7*pi/4, 'c': 7*pi/4, 'd': 7*pi/4}. Performance: 
+{'Accuracy': 0.42,
+ 'F1': 0.5245901639344263,
+ 'FN': 9,
+ 'FP': 20,
+ 'Precision': 0.4444444444444444,
+ 'Recall': 0.64,
+ 'TN': 5,
+ 'TP': 16,
+ 'Training iterations': 4,
+ 'Training time': 1013.0572700500488}
+🏃 View run 2025-01-30 08:24:30 at: http://127.0.0.1:5000/#/experiments/122726382345537711/runs/2c1c4a5d5bae454fbdb85089333c4a66
+🧪 View experiment at: http://127.0.0.1:5000/#/experiments/122726382345537711
+Classical Time:965.6776440143585s. Optimal angles: [5.89039982 5.88343082 5.89668769 5.88746237]
+{'Accuracy': 0.38,
+ 'F1': 0.45614035087719296,
+ 'FN': 12,
+ 'FP': 19,
+ 'Precision': 0.40625,
+ 'Recall': 0.52,
+ 'TN': 6,
+ 'TP': 13,
+ 'Training iterations': 100,
+ 'Training time': 965.6776440143585}
+🏃 View run 2025-01-30 08:41:25 at: http://127.0.0.1:5000/#/experiments/572988858733671914/runs/8f221658331e4864ba266e48c4ac2c6b
+🧪 View experiment at: http://127.0.0.1:5000/#/experiments/572988858733671914
+Experiment 2 of 10
+Generations:   0%|          | 0/10 [00:00<?, ?gen/s]Generations:  10%|█         | 1/10 [00:51<07:46, 51.79s/gen]Generations:  20%|██        | 2/10 [01:43<06:53, 51.73s/gen]Generations:  30%|███       | 3/10 [02:32<05:53, 50.51s/gen]Generations:  40%|████      | 4/10 [03:20<04:56, 49.40s/gen]Generations:  50%|█████     | 5/10 [04:04<03:57, 47.43s/gen]Generations:  60%|██████    | 6/10 [04:53<03:11, 47.91s/gen]Generations:  70%|███████   | 7/10 [05:45<02:28, 49.54s/gen]Generations:  80%|████████  | 8/10 [06:35<01:39, 49.52s/gen]Generations:  90%|█████████ | 9/10 [07:18<00:47, 47.59s/gen]Generations: 100%|██████████| 10/10 [08:05<00:00, 47.35s/gen]Generations: 100%|██████████| 10/10 [08:05<00:00, 48.55s/gen]
+********** Execution #1 **********
+gen    nfev    min       max      mean      std
+-----  ------  --------  -------  --------  ---------
+0      10      0.685628  0.75702  0.711084  0.0175088
+
+1      19      0.669446  0.759282  0.705965  0.0308617
+
+2      19      0.650967  0.734672  0.683033  0.0229984
+
+3      18      0.650967  0.70346  0.675459  0.0147765
+
+4      17      0.650967  0.73214  0.679811  0.0246414
+
+5      16      0.650967  0.664699  0.657261  0.00496899
+
+6      18      0.650967  0.658096  0.654733  0.00228416
+
+7      19      0.648233  0.655045  0.652567  0.00196612
+
+8      18      0.648233  0.655907  0.652514  0.00235366
+
+9      16      0.648233  0.655343  0.65033  0.00195594
+
+10     17      0.648233  0.654597  0.651094  0.00223627
+Evolutionary Time: 512.9424641132355s. Optimal angles: [ 4.12163943 -1.92235253  3.96187922 -3.97845626]
+{'Accuracy': 0.62,
+ 'F1': 0.5128205128205129,
+ 'FN': 15,
+ 'FP': 4,
+ 'Precision': 0.7142857142857143,
+ 'Recall': 0.4,
+ 'TN': 21,
+ 'TP': 10,
+ 'Training iterations': 0,
+ 'Training time': 512.9424641132355}
+🏃 View run 2025-01-30 08:57:31 at: http://127.0.0.1:5000/#/experiments/622990938901228224/runs/c474dbff176e45cc846f10b74e37994e
+🧪 View experiment at: http://127.0.0.1:5000/#/experiments/622990938901228224
+VQA Adiabatic. Time: 1044.7838830947876s. Optimal angles: {'a': 7*pi/4, 'b': 7*pi/4, 'c': 7*pi/4, 'd': 7*pi/4}. Performance: 
+{'Accuracy': 0.42,
+ 'F1': 0.5245901639344263,
+ 'FN': 9,
+ 'FP': 20,
+ 'Precision': 0.4444444444444444,
+ 'Recall': 0.64,
+ 'TN': 5,
+ 'TP': 16,
+ 'Training iterations': 4,
+ 'Training time': 1044.7838830947876}
+🏃 View run 2025-01-30 09:06:05 at: http://127.0.0.1:5000/#/experiments/122726382345537711/runs/09e36d26aac548f494f2c7e6582927a1
+🧪 View experiment at: http://127.0.0.1:5000/#/experiments/122726382345537711
+Classical Time:1104.0692582130432s. Optimal angles: [5.89039982 5.88343082 5.89668769 5.88746237]
+{'Accuracy': 0.38,
+ 'F1': 0.45614035087719296,
+ 'FN': 12,
+ 'FP': 19,
+ 'Precision': 0.40625,
+ 'Recall': 0.52,
+ 'TN': 6,
+ 'TP': 13,
+ 'Training iterations': 100,
+ 'Training time': 1104.0692582130432}
+🏃 View run 2025-01-30 09:23:32 at: http://127.0.0.1:5000/#/experiments/572988858733671914/runs/df352ad3f5ae4b8893cfa0239b0dce1a
+🧪 View experiment at: http://127.0.0.1:5000/#/experiments/572988858733671914
+Experiment 3 of 10
+Generations:   0%|          | 0/10 [00:00<?, ?gen/s]Generations:  10%|█         | 1/10 [00:55<08:16, 55.22s/gen]Generations:  20%|██        | 2/10 [01:52<07:29, 56.15s/gen]Generations:  30%|███       | 3/10 [02:44<06:21, 54.54s/gen]Generations:  40%|████      | 4/10 [03:32<05:12, 52.01s/gen]Generations:  50%|█████     | 5/10 [04:18<04:09, 49.82s/gen]Generations:  60%|██████    | 6/10 [05:08<03:19, 49.83s/gen]Generations:  70%|███████   | 7/10 [06:02<02:33, 51.15s/gen]Generations:  80%|████████  | 8/10 [06:53<01:41, 51.00s/gen]Generations:  90%|█████████ | 9/10 [07:37<00:49, 49.02s/gen]Generations: 100%|██████████| 10/10 [08:26<00:00, 48.79s/gen]Generations: 100%|██████████| 10/10 [08:26<00:00, 50.60s/gen]
+********** Execution #1 **********
+gen    nfev    min       max      mean      std
+-----  ------  --------  -------  --------  ---------
+0      10      0.685628  0.75702  0.711084  0.0175088
+
+1      19      0.669446  0.759282  0.705965  0.0308617
+
+2      19      0.650967  0.734672  0.683033  0.0229984
+
+3      18      0.650967  0.70346  0.675459  0.0147765
+
+4      17      0.650967  0.73214  0.679811  0.0246414
+
+5      16      0.650967  0.664699  0.657261  0.00496899
+
+6      18      0.650967  0.658096  0.654733  0.00228416
+
+7      19      0.648233  0.655045  0.652567  0.00196612
+
+8      18      0.648233  0.655907  0.652514  0.00235366
+
+9      16      0.648233  0.655343  0.65033  0.00195594
+
+10     17      0.648233  0.654597  0.651094  0.00223627
+Evolutionary Time: 535.0861418247223s. Optimal angles: [ 4.12163943 -1.92235253  3.96187922 -3.97845626]
+{'Accuracy': 0.62,
+ 'F1': 0.5128205128205129,
+ 'FN': 15,
+ 'FP': 4,
+ 'Precision': 0.7142857142857143,
+ 'Recall': 0.4,
+ 'TN': 21,
+ 'TP': 10,
+ 'Training iterations': 0,
+ 'Training time': 535.0861418247223}
+🏃 View run 2025-01-30 09:41:57 at: http://127.0.0.1:5000/#/experiments/622990938901228224/runs/a92f49c1b5f1415d83525cb656424a35
+🧪 View experiment at: http://127.0.0.1:5000/#/experiments/622990938901228224
+VQA Adiabatic. Time: 1520.44957613945s. Optimal angles: {'a': 7*pi/4, 'b': 7*pi/4, 'c': 7*pi/4, 'd': 7*pi/4}. Performance: 
+{'Accuracy': 0.42,
+ 'F1': 0.5245901639344263,
+ 'FN': 9,
+ 'FP': 20,
+ 'Precision': 0.4444444444444444,
+ 'Recall': 0.64,
+ 'TN': 5,
+ 'TP': 16,
+ 'Training iterations': 4,
+ 'Training time': 1520.44957613945}
+🏃 View run 2025-01-30 09:50:52 at: http://127.0.0.1:5000/#/experiments/122726382345537711/runs/b39322650d844de2b32692e913e52df3
+🧪 View experiment at: http://127.0.0.1:5000/#/experiments/122726382345537711
+Classical Time:1878.0224997997284s. Optimal angles: [5.89039982 5.88343082 5.89668769 5.88746237]
+{'Accuracy': 0.38,
+ 'F1': 0.45614035087719296,
+ 'FN': 12,
+ 'FP': 19,
+ 'Precision': 0.40625,
+ 'Recall': 0.52,
+ 'TN': 6,
+ 'TP': 13,
+ 'Training iterations': 100,
+ 'Training time': 1878.0224997997284}
+🏃 View run 2025-01-30 10:16:15 at: http://127.0.0.1:5000/#/experiments/572988858733671914/runs/186094af166840a2a671c2f385c2aca2
+🧪 View experiment at: http://127.0.0.1:5000/#/experiments/572988858733671914
+Experiment 4 of 10
+Generations:   0%|          | 0/10 [00:00<?, ?gen/s]Generations:  10%|█         | 1/10 [01:40<15:08, 100.90s/gen]Generations:  20%|██        | 2/10 [03:18<13:13, 99.17s/gen] Generations:  30%|███       | 3/10 [05:04<11:54, 102.14s/gen]Generations:  40%|████      | 4/10 [06:42<10:03, 100.57s/gen]Generations:  50%|█████     | 5/10 [07:41<07:06, 85.33s/gen] Generations:  60%|██████    | 6/10 [08:39<05:04, 76.17s/gen]Generations:  70%|███████   | 7/10 [09:47<03:40, 73.55s/gen]Generations:  80%|████████  | 8/10 [10:53<02:22, 71.23s/gen]Generations:  90%|█████████ | 9/10 [11:47<01:05, 65.70s/gen]Generations: 100%|██████████| 10/10 [12:47<00:00, 64.03s/gen]Generations: 100%|██████████| 10/10 [12:47<00:00, 76.77s/gen]
+********** Execution #1 **********
+gen    nfev    min       max      mean      std
+-----  ------  --------  -------  --------  ---------
+0      10      0.685628  0.75702  0.711084  0.0175088
+
+1      19      0.669446  0.759282  0.705965  0.0308617
+
+2      19      0.650967  0.734672  0.683033  0.0229984
+
+3      18      0.650967  0.70346  0.675459  0.0147765
+
+4      17      0.650967  0.73214  0.679811  0.0246414
+
+5      16      0.650967  0.664699  0.657261  0.00496899
+
+6      18      0.650967  0.658096  0.654733  0.00228416
+
+7      19      0.648233  0.655045  0.652567  0.00196612
+
+8      18      0.648233  0.655907  0.652514  0.00235366
+
+9      16      0.648233  0.655343  0.65033  0.00195594
+
+10     17      0.648233  0.654597  0.651094  0.00223627
+Evolutionary Time: 826.6257119178772s. Optimal angles: [ 4.12163943 -1.92235253  3.96187922 -3.97845626]
+{'Accuracy': 0.62,
+ 'F1': 0.5128205128205129,
+ 'FN': 15,
+ 'FP': 4,
+ 'Precision': 0.7142857142857143,
+ 'Recall': 0.4,
+ 'TN': 21,
+ 'TP': 10,
+ 'Training iterations': 0,
+ 'Training time': 826.6257119178772}
+🏃 View run 2025-01-30 10:47:34 at: http://127.0.0.1:5000/#/experiments/622990938901228224/runs/f59b87e8c5a04896b6c69ec390f06e9a
+🧪 View experiment at: http://127.0.0.1:5000/#/experiments/622990938901228224
+VQA Adiabatic. Time: 1358.6002008914948s. Optimal angles: {'a': 7*pi/4, 'b': 7*pi/4, 'c': 7*pi/4, 'd': 7*pi/4}. Performance: 
+{'Accuracy': 0.42,
+ 'F1': 0.5245901639344263,
+ 'FN': 9,
+ 'FP': 20,
+ 'Precision': 0.4444444444444444,
+ 'Recall': 0.64,
+ 'TN': 5,
+ 'TP': 16,
+ 'Training iterations': 4,
+ 'Training time': 1358.6002008914948}
+🏃 View run 2025-01-30 11:01:22 at: http://127.0.0.1:5000/#/experiments/122726382345537711/runs/aced1a4770574c258f90067000e464ee
+🧪 View experiment at: http://127.0.0.1:5000/#/experiments/122726382345537711
+Classical Time:1230.8667237758636s. Optimal angles: [5.89039982 5.88343082 5.89668769 5.88746237]
+{'Accuracy': 0.38,
+ 'F1': 0.45614035087719296,
+ 'FN': 12,
+ 'FP': 19,
+ 'Precision': 0.40625,
+ 'Recall': 0.52,
+ 'TN': 6,
+ 'TP': 13,
+ 'Training iterations': 100,
+ 'Training time': 1230.8667237758636}
+🏃 View run 2025-01-30 11:24:03 at: http://127.0.0.1:5000/#/experiments/572988858733671914/runs/8424710785f3413382c9a94e2935a2dd
+🧪 View experiment at: http://127.0.0.1:5000/#/experiments/572988858733671914
+Experiment 5 of 10
+Generations:   0%|          | 0/10 [00:00<?, ?gen/s]Generations:  10%|█         | 1/10 [01:02<09:22, 62.50s/gen]Generations:  20%|██        | 2/10 [02:07<08:33, 64.16s/gen]Generations:  30%|███       | 3/10 [03:09<07:20, 62.93s/gen]Generations:  40%|████      | 4/10 [04:06<06:04, 60.79s/gen]Generations:  50%|█████     | 5/10 [05:00<04:50, 58.07s/gen]Generations:  60%|██████    | 6/10 [05:59<03:53, 58.49s/gen]Generations:  70%|███████   | 7/10 [07:02<03:00, 60.11s/gen]Generations:  80%|████████  | 8/10 [08:04<02:01, 60.61s/gen]Generations:  90%|█████████ | 9/10 [09:00<00:59, 59.18s/gen]Generations: 100%|██████████| 10/10 [09:57<00:00, 58.53s/gen]Generations: 100%|██████████| 10/10 [09:57<00:00, 59.76s/gen]
+********** Execution #1 **********
+gen    nfev    min       max      mean      std
+-----  ------  --------  -------  --------  ---------
+0      10      0.685628  0.75702  0.711084  0.0175088
+
+1      19      0.669446  0.759282  0.705965  0.0308617
+
+2      19      0.650967  0.734672  0.683033  0.0229984
+
+3      18      0.650967  0.70346  0.675459  0.0147765
+
+4      17      0.650967  0.73214  0.679811  0.0246414
+
+5      16      0.650967  0.664699  0.657261  0.00496899
+
+6      18      0.650967  0.658096  0.654733  0.00228416
+
+7      19      0.648233  0.655045  0.652567  0.00196612
+
+8      18      0.648233  0.655907  0.652514  0.00235366
+
+9      16      0.648233  0.655343  0.65033  0.00195594
+
+10     17      0.648233  0.654597  0.651094  0.00223627
+Evolutionary Time: 631.0557661056519s. Optimal angles: [ 4.12163943 -1.92235253  3.96187922 -3.97845626]
+{'Accuracy': 0.62,
+ 'F1': 0.5128205128205129,
+ 'FN': 15,
+ 'FP': 4,
+ 'Precision': 0.7142857142857143,
+ 'Recall': 0.4,
+ 'TN': 21,
+ 'TP': 10,
+ 'Training iterations': 0,
+ 'Training time': 631.0557661056519}
+🏃 View run 2025-01-30 11:44:35 at: http://127.0.0.1:5000/#/experiments/622990938901228224/runs/974305bb319f437ea32495d77591c68f
+🧪 View experiment at: http://127.0.0.1:5000/#/experiments/622990938901228224
+VQA Adiabatic. Time: 1243.467046737671s. Optimal angles: {'a': 7*pi/4, 'b': 7*pi/4, 'c': 7*pi/4, 'd': 7*pi/4}. Performance: 
+{'Accuracy': 0.42,
+ 'F1': 0.5245901639344263,
+ 'FN': 9,
+ 'FP': 20,
+ 'Precision': 0.4444444444444444,
+ 'Recall': 0.64,
+ 'TN': 5,
+ 'TP': 16,
+ 'Training iterations': 4,
+ 'Training time': 1243.467046737671}
+🏃 View run 2025-01-30 11:55:07 at: http://127.0.0.1:5000/#/experiments/122726382345537711/runs/3989599c5e4e400d854b807b9d2fa8d9
+🧪 View experiment at: http://127.0.0.1:5000/#/experiments/122726382345537711
+Classical Time:972.8741581439972s. Optimal angles: [5.89039982 5.88343082 5.89668769 5.88746237]
+{'Accuracy': 0.38,
+ 'F1': 0.45614035087719296,
+ 'FN': 12,
+ 'FP': 19,
+ 'Precision': 0.40625,
+ 'Recall': 0.52,
+ 'TN': 6,
+ 'TP': 13,
+ 'Training iterations': 100,
+ 'Training time': 972.8741581439972}
+🏃 View run 2025-01-30 12:15:53 at: http://127.0.0.1:5000/#/experiments/572988858733671914/runs/ab6dfe780bb242529edb4d633658c688
+🧪 View experiment at: http://127.0.0.1:5000/#/experiments/572988858733671914
+Experiment 6 of 10
+Generations:   0%|          | 0/10 [00:00<?, ?gen/s]Generations:  10%|█         | 1/10 [00:51<07:47, 51.99s/gen]Generations:  20%|██        | 2/10 [01:44<06:56, 52.03s/gen]Generations:  30%|███       | 3/10 [02:33<05:55, 50.80s/gen]Generations:  40%|████      | 4/10 [03:19<04:53, 48.98s/gen]Generations:  50%|█████     | 5/10 [04:05<03:59, 47.90s/gen]Generations:  60%|██████    | 6/10 [04:55<03:14, 48.57s/gen]Generations:  70%|███████   | 7/10 [05:48<02:29, 49.95s/gen]Generations:  80%|████████  | 8/10 [06:38<01:39, 49.94s/gen]Generations:  90%|█████████ | 9/10 [07:22<00:48, 48.26s/gen]Generations: 100%|██████████| 10/10 [08:09<00:00, 47.86s/gen]Generations: 100%|██████████| 10/10 [08:09<00:00, 48.97s/gen]
+********** Execution #1 **********
+gen    nfev    min       max      mean      std
+-----  ------  --------  -------  --------  ---------
+0      10      0.685628  0.75702  0.711084  0.0175088
+
+1      19      0.669446  0.759282  0.705965  0.0308617
+
+2      19      0.650967  0.734672  0.683033  0.0229984
+
+3      18      0.650967  0.70346  0.675459  0.0147765
+
+4      17      0.650967  0.73214  0.679811  0.0246414
+
+5      16      0.650967  0.664699  0.657261  0.00496899
+
+6      18      0.650967  0.658096  0.654733  0.00228416
+
+7      19      0.648233  0.655045  0.652567  0.00196612
+
+8      18      0.648233  0.655907  0.652514  0.00235366
+
+9      16      0.648233  0.655343  0.65033  0.00195594
+
+10     17      0.648233  0.654597  0.651094  0.00223627
+Evolutionary Time: 516.8435471057892s. Optimal angles: [ 4.12163943 -1.92235253  3.96187922 -3.97845626]
+{'Accuracy': 0.62,
+ 'F1': 0.5128205128205129,
+ 'FN': 15,
+ 'FP': 4,
+ 'Precision': 0.7142857142857143,
+ 'Recall': 0.4,
+ 'TN': 21,
+ 'TP': 10,
+ 'Training iterations': 0,
+ 'Training time': 516.8435471057892}
+Exception caught in main loop: API request to endpoint /api/2.0/mlflow/runs/get failed with error code 403 != 200. Response body: ''
+Traceback (most recent call last):
+  File "/Users/ernesto.acosta/PhD/repos/gradientfreeVQA/main.py", line 251, in main
+  File "/opt/anaconda3/lib/python3.11/site-packages/mlflow/tracking/fluent.py", line 984, in log_metrics
+    return MlflowClient().log_batch(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.11/site-packages/mlflow/tracking/client.py", line 1868, in log_batch
+    return self._tracking_client.log_batch(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.11/site-packages/mlflow/tracking/_tracking_service/client.py", line 762, in log_batch
+    self.store.log_batch(run_id=run_id, metrics=metrics_batch, params=[], tags=[])
+  File "/opt/anaconda3/lib/python3.11/site-packages/mlflow/store/tracking/rest_store.py", line 539, in log_batch
+    self._call_endpoint(LogBatch, req_body)
+  File "/opt/anaconda3/lib/python3.11/site-packages/mlflow/store/tracking/rest_store.py", line 82, in _call_endpoint
+    return call_endpoint(self.get_host_creds(), endpoint, method, json_body, response_proto)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.11/site-packages/mlflow/utils/rest_utils.py", line 370, in call_endpoint
+    response = verify_rest_response(response, endpoint)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.11/site-packages/mlflow/utils/rest_utils.py", line 246, in verify_rest_response
+    raise MlflowException(
+mlflow.exceptions.MlflowException: API request to endpoint /api/2.0/mlflow/runs/log-batch failed with error code 403 != 200. Response body: ''
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/ernesto.acosta/PhD/repos/gradientfreeVQA/main.py", line 244, in main
+  File "/opt/anaconda3/lib/python3.11/site-packages/mlflow/tracking/fluent.py", line 229, in __exit__
+    end_run(RunStatus.to_string(status))
+  File "/opt/anaconda3/lib/python3.11/site-packages/mlflow/tracking/fluent.py", line 519, in end_run
+    MlflowClient().set_terminated(last_active_run_id, status)
+  File "/opt/anaconda3/lib/python3.11/site-packages/mlflow/tracking/client.py", line 2905, in set_terminated
+    self._tracking_client.set_terminated(run_id, status, end_time)
+  File "/opt/anaconda3/lib/python3.11/site-packages/mlflow/tracking/_tracking_service/client.py", line 942, in set_terminated
+    self._log_url(run_id)
+  File "/opt/anaconda3/lib/python3.11/site-packages/mlflow/tracking/_tracking_service/client.py", line 916, in _log_url
+    run_info = self.store.get_run(run_id).info
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.11/site-packages/mlflow/store/tracking/rest_store.py", line 169, in get_run
+    response_proto = self._call_endpoint(GetRun, req_body)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.11/site-packages/mlflow/store/tracking/rest_store.py", line 82, in _call_endpoint
+    return call_endpoint(self.get_host_creds(), endpoint, method, json_body, response_proto)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.11/site-packages/mlflow/utils/rest_utils.py", line 370, in call_endpoint
+    response = verify_rest_response(response, endpoint)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.11/site-packages/mlflow/utils/rest_utils.py", line 246, in verify_rest_response
+    raise MlflowException(
+mlflow.exceptions.MlflowException: API request to endpoint /api/2.0/mlflow/runs/get failed with error code 403 != 200. Response body: ''
+
+Experiment 7 of 10
+Exception caught in main loop: API request to endpoint /api/2.0/mlflow/experiments/get-by-name failed with error code 403 != 200. Response body: ''
+Traceback (most recent call last):
+  File "/Users/ernesto.acosta/PhD/repos/gradientfreeVQA/main.py", line 241, in main
+    else:
+        ^^
+  File "/opt/anaconda3/lib/python3.11/site-packages/mlflow/tracking/fluent.py", line 157, in set_experiment
+    experiment = client.get_experiment_by_name(experiment_name)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.11/site-packages/mlflow/tracking/client.py", line 1257, in get_experiment_by_name
+    return self._tracking_client.get_experiment_by_name(name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.11/site-packages/mlflow/tracking/_tracking_service/client.py", line 502, in get_experiment_by_name
+    return self.store.get_experiment_by_name(name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.11/site-packages/mlflow/store/tracking/rest_store.py", line 522, in get_experiment_by_name
+    response_proto = self._call_endpoint(GetExperimentByName, req_body)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.11/site-packages/mlflow/store/tracking/rest_store.py", line 82, in _call_endpoint
+    return call_endpoint(self.get_host_creds(), endpoint, method, json_body, response_proto)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.11/site-packages/mlflow/utils/rest_utils.py", line 370, in call_endpoint
+    response = verify_rest_response(response, endpoint)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.11/site-packages/mlflow/utils/rest_utils.py", line 246, in verify_rest_response
+    raise MlflowException(
+mlflow.exceptions.MlflowException: API request to endpoint /api/2.0/mlflow/experiments/get-by-name failed with error code 403 != 200. Response body: ''
+
+Experiment 8 of 10
+Exception caught in main loop: API request to endpoint /api/2.0/mlflow/experiments/get-by-name failed with error code 403 != 200. Response body: ''
+Traceback (most recent call last):
+  File "/Users/ernesto.acosta/PhD/repos/gradientfreeVQA/main.py", line 241, in main
+    else:
+        ^^
+  File "/opt/anaconda3/lib/python3.11/site-packages/mlflow/tracking/fluent.py", line 157, in set_experiment
+    experiment = client.get_experiment_by_name(experiment_name)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.11/site-packages/mlflow/tracking/client.py", line 1257, in get_experiment_by_name
+    return self._tracking_client.get_experiment_by_name(name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.11/site-packages/mlflow/tracking/_tracking_service/client.py", line 502, in get_experiment_by_name
+    return self.store.get_experiment_by_name(name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.11/site-packages/mlflow/store/tracking/rest_store.py", line 522, in get_experiment_by_name
+    response_proto = self._call_endpoint(GetExperimentByName, req_body)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.11/site-packages/mlflow/store/tracking/rest_store.py", line 82, in _call_endpoint
+    return call_endpoint(self.get_host_creds(), endpoint, method, json_body, response_proto)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.11/site-packages/mlflow/utils/rest_utils.py", line 370, in call_endpoint
+    response = verify_rest_response(response, endpoint)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.11/site-packages/mlflow/utils/rest_utils.py", line 246, in verify_rest_response
+    raise MlflowException(
+mlflow.exceptions.MlflowException: API request to endpoint /api/2.0/mlflow/experiments/get-by-name failed with error code 403 != 200. Response body: ''
+
+Experiment 9 of 10
+Exception caught in main loop: API request to endpoint /api/2.0/mlflow/experiments/get-by-name failed with error code 403 != 200. Response body: ''
+Traceback (most recent call last):
+  File "/Users/ernesto.acosta/PhD/repos/gradientfreeVQA/main.py", line 241, in main
+    else:
+        ^^
+  File "/opt/anaconda3/lib/python3.11/site-packages/mlflow/tracking/fluent.py", line 157, in set_experiment
+    experiment = client.get_experiment_by_name(experiment_name)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.11/site-packages/mlflow/tracking/client.py", line 1257, in get_experiment_by_name
+    return self._tracking_client.get_experiment_by_name(name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.11/site-packages/mlflow/tracking/_tracking_service/client.py", line 502, in get_experiment_by_name
+    return self.store.get_experiment_by_name(name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.11/site-packages/mlflow/store/tracking/rest_store.py", line 522, in get_experiment_by_name
+    response_proto = self._call_endpoint(GetExperimentByName, req_body)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.11/site-packages/mlflow/store/tracking/rest_store.py", line 82, in _call_endpoint
+    return call_endpoint(self.get_host_creds(), endpoint, method, json_body, response_proto)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.11/site-packages/mlflow/utils/rest_utils.py", line 370, in call_endpoint
+    response = verify_rest_response(response, endpoint)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.11/site-packages/mlflow/utils/rest_utils.py", line 246, in verify_rest_response
+    raise MlflowException(
+mlflow.exceptions.MlflowException: API request to endpoint /api/2.0/mlflow/experiments/get-by-name failed with error code 403 != 200. Response body: ''
+
+Experiment 10 of 10
+Exception caught in main loop: API request to endpoint /api/2.0/mlflow/experiments/get-by-name failed with error code 403 != 200. Response body: ''
+Traceback (most recent call last):
+  File "/Users/ernesto.acosta/PhD/repos/gradientfreeVQA/main.py", line 241, in main
+    else:
+        ^^
+  File "/opt/anaconda3/lib/python3.11/site-packages/mlflow/tracking/fluent.py", line 157, in set_experiment
+    experiment = client.get_experiment_by_name(experiment_name)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.11/site-packages/mlflow/tracking/client.py", line 1257, in get_experiment_by_name
+    return self._tracking_client.get_experiment_by_name(name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.11/site-packages/mlflow/tracking/_tracking_service/client.py", line 502, in get_experiment_by_name
+    return self.store.get_experiment_by_name(name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.11/site-packages/mlflow/store/tracking/rest_store.py", line 522, in get_experiment_by_name
+    response_proto = self._call_endpoint(GetExperimentByName, req_body)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.11/site-packages/mlflow/store/tracking/rest_store.py", line 82, in _call_endpoint
+    return call_endpoint(self.get_host_creds(), endpoint, method, json_body, response_proto)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.11/site-packages/mlflow/utils/rest_utils.py", line 370, in call_endpoint
+    response = verify_rest_response(response, endpoint)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.11/site-packages/mlflow/utils/rest_utils.py", line 246, in verify_rest_response
+    raise MlflowException(
+mlflow.exceptions.MlflowException: API request to endpoint /api/2.0/mlflow/experiments/get-by-name failed with error code 403 != 200. Response body: ''
+
